@@ -82,8 +82,8 @@ Quit the browser
                 System.out.println("Expected Url: "+ expectedUrl);
             }
             //Quit the browser
-          //  driver.quit();
-            driver.close();
+            driver.quit();
+            
 
         }
 
